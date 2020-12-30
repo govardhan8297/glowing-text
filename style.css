@@ -35,3 +35,8 @@
       0 0 80px #03bcf4, 0 0 160px #03bcf4;
   }
 }
+@media screen and (max-width: 1199px) {
+  .container h1 {
+    font-size: 3.5em;
+  }
+}
